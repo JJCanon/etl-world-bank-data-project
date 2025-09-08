@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Data/gdp.xls
+Data/countrydata.csv
+Data/population.xls
+Data/Projects.xls
+Data/sales_data_sample.csv
